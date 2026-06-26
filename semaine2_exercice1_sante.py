@@ -37,7 +37,7 @@ nom_hopital = 'CHU de Brazzaville'
 ville_hopital = 'Brazaville'
 nb_lits_total = (320)
 nb_lits_occupes = (284)
-nb_medecins_actifs = 47
+nb_medecins_actifs = (47)
 print ('HOPITAL              :', nom_hopital)
 print ('Ville                :', ville_hopital)
 pourcentage = nb_lits_occupes/nb_lits_total*100
