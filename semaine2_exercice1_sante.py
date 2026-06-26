@@ -1,9 +1,9 @@
 # AKEINI ACADEMI - Prijet Sante public
 # Semaine 2 - Exercice 1 : Fiche Patient CHU Brazaville
 # Votre nom : Estelle Kelly Nguefang
-#date : 
+#date : 26 juin 2026
 
-# ---- SECTION 1: VARIABLES DU PATIENT
+# --- SECTION 1: VARIABLES DU PATIENT
 print ('=============================================')
 nom_patient = 'MAWOUNGOU Celestine'
 print ('FICHE PATIENT -', nom_patient)
